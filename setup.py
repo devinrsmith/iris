@@ -9,7 +9,7 @@ def readme_type():
 
 setup(
     name='iris',
-    version = '1.0.6',
+    version = '1.0.7',
 
     description='A Python project for Illumon Iris',
 
