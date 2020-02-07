@@ -19,3 +19,8 @@ Please use either:
 **info.gianlucacosta.iris** - A general-purpose library for Python
   - pip install info.gianlucacosta.iris
   - https://pypi.python.org/pypi/info.gianlucacosta.iris
+
+**irisapi** - Iris is a highly configurable and flexible service for paging and messaging
+  - pip install irisapi
+  - https://pypi.org/project/irisapi/
+  - https://iris.claims/
